@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)]
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Ayush Das</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Machine Learning" width="400" src="https://i.pinimg.com/originals/7e/0b/dd/7e0bdda6534cc68c4e8258ad1c6ea183.gif">
